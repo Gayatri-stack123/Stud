@@ -1,4 +1,4 @@
-public class Oprations {
+public class  Oprations {
     private double number;
 
     // Constructor
